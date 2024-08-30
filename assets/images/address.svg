@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2019 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="350px" height="350px" version="1.1"
+    viewBox="0 0 350 350"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:xodm="http://www.corel.com/coreldraw/odm/2003" style="shape-rendering:geometricPrecision;text-rendering:geometricPrecision;image-rendering:optimizeQuality;fill-rule:evenodd;clip-rule:evenodd;" >
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#6BAFE8;stroke-width:10;stroke-miterlimit:22.9256}
+    .str1 {stroke:white;stroke-width:8;stroke-miterlimit:22.9256}
+    .str2 {stroke:white;stroke-width:8;stroke-miterlimit:22.9256}
+    .str3 {stroke:#FEFEFE;stroke-width:0.9;stroke-miterlimit:22.9256}
+    .fil3 {fill:none;fill-rule:nonzero}
+    .fil1 {fill:#105F9F}
+    .fil2 {fill:white}
+    .fil0 {fill:#6BAFE8;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_1616606492544">
+   <path class="fil0 str0" d="M175 259.67c23.07,0 43.98,3.44 59.11,9 15.27,5.62 24.72,13.43 24.72,22.1 0,8.66 -9.44,16.47 -24.72,22.09 -15.13,5.56 -36.04,9.01 -59.11,9.01 -23.07,0 -43.98,-3.45 -59.11,-9.01 -15.28,-5.62 -24.72,-13.43 -24.72,-22.09 0,-8.67 9.45,-16.48 24.72,-22.1 15.13,-5.56 36.04,-9 59.11,-9zm58.74 9.86c-15.02,-5.53 -35.79,-8.94 -58.74,-8.94 -22.95,0 -43.72,3.41 -58.74,8.94 -14.89,5.47 -24.09,12.98 -24.09,21.24 0,8.25 9.2,15.76 24.09,21.24 15.02,5.52 35.79,8.94 58.74,8.94 22.95,0 43.72,-3.42 58.74,-8.94 14.89,-5.48 24.09,-12.99 24.09,-21.24 0,-8.26 -9.2,-15.77 -24.09,-21.24z" style="fill:#6BAFE8;fill-rule:nonzero;" />
+   <g>
+    <path class="fil1 str1" d="M179.8 288.22l39.09 -61.85 36.97 -58.5c12.03,-15.18 19.14,-33.87 19.14,-54.08 0,-50.77 -44.77,-91.93 -100,-91.93 -55.23,0 -100,41.16 -100,91.93 0,20.21 7.11,38.9 19.14,54.08l36.97 58.5 39.09 61.85c1.02,1.62 2.77,2.55 4.8,2.55 2.03,0 3.78,-0.93 4.8,-2.55z" style="stroke:white;stroke-width:8;stroke-miterlimit:22.9256;fill:#105F9F;" />
+    <ellipse class="fil2 str2" cx="175" cy="113.79" rx="41.67" ry="38.3" style="stroke:white;stroke-width:8;stroke-miterlimit:22.9256;fill:white;" />
+   </g>
+  </g>
+  <g>
+   <polygon class="fil3 str3" points="356.25,5 6.25,5 6.25,355 356.25,355 " style="stroke:#FEFEFE;stroke-width:0.9;stroke-miterlimit:22.9256;fill:none;fill-rule:nonzero;" />
+  </g>
+ </g>
+</svg>
